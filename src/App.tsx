@@ -4,7 +4,7 @@ function App() {
   return (
     <Canvas
       camera={{
-        position: [3, 3, 3],
+        position: [1, 1, 2],
       }}
     >
       <mesh>
